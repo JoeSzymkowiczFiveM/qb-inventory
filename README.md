@@ -244,9 +244,10 @@ end
 
 
 ## Preview
-[Durability Stacking](https://streamable.com/lv8hgr)
 
-[Right Click Context Menu Options](https://streamable.com/dzfvf1)
+[Durability Stacking](https://streamable.com/746zrk)
+
+[Right Click Context Menu Options](https://streamable.com/mqlgcf)
 
 ## Discord
 [Joe Szymkowicz FiveM Development](https://discord.gg/5vPGxyCB4z)
