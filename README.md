@@ -241,7 +241,7 @@ function QBCore.Functions.CheckDegraded(item)
     return percentDone
 end
 ```
-![image](https://github.com/JoeSzymkowiczFiveM/qb-inventory/assets/70592880/c31896fc-3912-4dc8-89b9-1a2ae4af6ea2)
+![image](https://github.com/JoeSzymkowiczFiveM/qb-inventory/assets/70592880/fa9e45db-035f-452e-8060-f95ad2179b8c)
 
 
 ## Preview
